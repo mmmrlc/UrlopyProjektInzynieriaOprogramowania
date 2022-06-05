@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Dane"},{"p":"<Unnamed>","l":"EkranLogowania"},{"p":"<Unnamed>","l":"Menadzer"},{"p":"<Unnamed>","l":"Osoba"},{"p":"<Unnamed>","l":"Pracownik"},{"p":"<Unnamed>","l":"TestyJednostkowe"},{"p":"<Unnamed>","l":"Urlop"}];updateSearchResults();
